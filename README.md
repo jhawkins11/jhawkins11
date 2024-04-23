@@ -1,10 +1,34 @@
-# Josiah Hawkins
-## Full-Stack Developer // React, Node, Javascript, Typescript, Next.js, AWS
+# Josiah Hawkins - Full Stack Developer
 
-Hey there! 👋 
+Hi! I'm Josiah, a passionate full stack developer with experience in building scalable and performant web applications.
 
-I'm Josiah, an innovative full-stack developer with 2.5+ years of experience. I love building web apps that are both visually stunning 🎨 and blazingly fast ⚡️.
+## Skills
 
-My tech stack includes JavaScript, React, Node.js, and Next.js, and I'm currently expanding my knowledge by learning Docker, Kubernetes, and Terraform. I'm passionate about staying up-to-date with the latest tools and techniques to continuously improve my skills and deliver high-quality solutions. In my free time, I enjoy playing basketball 🏀, reading 📚, and gaming with friends 🎮.
+- **Front-end**: JavaScript, TypeScript, React, Next.js, Redux, HTML5, CSS, Tailwind CSS, Material-UI
+- **Back-end**: Node.js, Express.js, MySQL, MongoDB, Redis
+- **Cloud**: AWS (Elastic Beanstalk, RDS, S3, Lambda, Cloudfront)
+- **Testing**: Jest, Cypress
+- **Tools**: Git, GitHub, Jira, Agile Methodologies
 
-Feel free to reach out if you'd like to chat code, collaborate on a project, or swap recommendations for books, music, or hiking trails. Cheers! 🍻
+## Featured Projects
+
+### Doc Genie
+
+An AI-powered document tree builder that enables collaborative authoring and leverages OpenAI GPT-4 for automated drafting and revisions. Built with React, Next.js, TypeScript, Tailwind CSS, Material-UI, Firebase, and MongoDB.
+
+## Professional Experience
+
+- **DLD-VIP** (04/2022 - Present) - Full Stack Developer
+- **Smiley Graphix** (09/2021 - 04/2022) - Full Stack Developer
+
+## Education
+
+- AWS Certified Developer - Associate - 2023
+- Lighthouse Christian Academy (High School Diploma) - 2017
+
+## Contact
+
+- Email: josiah.c.hawkins@gmail.com
+- LinkedIn: [Josiah Hawkins](https://www.linkedin.com/in/josiahhawkins/)
+
+Feel free to explore my repositories and reach out to me for any collaboration or opportunities!
